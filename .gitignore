@@ -1,3 +1,13 @@
+#python specific
+*.pyc
+ 
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
 env/.Python
 env/bin/activate
 env/bin/activate.csh
